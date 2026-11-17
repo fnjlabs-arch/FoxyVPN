@@ -15,12 +15,12 @@ val hasReleaseSigning = releaseKeystoreFile.exists() &&
     !releaseStorePassword.isNullOrBlank()
 
 android {
-    namespace = "com.vauth.foxyvpn"
+    namespace = "com.sadsha.foxyvpn"
     compileSdk = 35
     buildToolsVersion = "35.0.0"
 
     defaultConfig {
-        applicationId = "com.vauth.foxyvpn"
+        applicationId = "com.sadsha.foxyvpn"
         minSdk = 26
         targetSdk = 35
         versionCode = 49

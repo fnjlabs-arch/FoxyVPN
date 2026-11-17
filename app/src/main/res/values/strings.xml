@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">FoxyVPN</string>
+    <string name="app_name">SadSha Foxy VPN</string>
     <string name="quick_connect">Quick Connect</string>
     <string name="quick_connect_connected">Connected</string>
     <string name="quick_connect_connecting">Connecting\u2026</string>
     <string name="quick_connect_disconnected">Disconnected</string>
-    <string name="quick_connect_widget_desc">FoxyVPN Quick Connect Widget</string>
+    <string name="quick_connect_widget_desc">SadSha Foxy VPN Quick Connect Widget</string>
     <string name="proxy">Proxy</string>
     <string name="local_proxy">Local proxy</string>
     <string name="upstream_proxy">Upstream proxy</string>
@@ -107,7 +107,7 @@
         <item quantity="one">%1$d selected</item>
         <item quantity="other">%1$d selected</item>
     </plurals>
-    <string name="vpn_permission_denied_help">FoxyVPN needs Android\'s VPN permission to tunnel this device\'s traffic. Proxy-only mode in Settings works without it.</string>
+    <string name="vpn_permission_denied_help">SadSha Foxy VPN needs Android\'s VPN permission to tunnel this device\'s traffic. Proxy-only mode in Settings works without it.</string>
     <string name="home_next_connection">Next connection: %1$s</string>
     <string name="home_latency">Latency</string>
     <string name="home_pinging">Pinging…</string>
@@ -154,7 +154,7 @@
     <string name="logs_empty_none">No log entries yet.</string>
     <string name="logs_empty_problems">No warnings or errors. Nothing has gone wrong.</string>
     <string name="logs_empty_filter">Nothing matches this filter.</string>
-    <string name="logs_share_chooser_title">Save or send FoxyVPN logs</string>
+    <string name="logs_share_chooser_title">Save or send SadSha Foxy VPN logs</string>
     <string name="logs_share_failed">Could not share logs. Try again.</string>
     <string name="logs_action_share">Save/share logs as a file</string>
     <string name="logs_action_copy">Copy logs</string>
@@ -173,23 +173,23 @@
 
     <string name="update_checking">Checking for updates…</string>
     <string name="update_notification_title">Update available</string>
-    <string name="update_notification_text">FoxyVPN %1$s is available</string>
+    <string name="update_notification_text">SadSha Foxy VPN %1$s is available</string>
     <string name="update_notification_channel_name">App updates</string>
     <string name="update_notification_channel_desc">Notifications when a newer app release is available</string>
     <string name="update_btn_view_release">View release</string>
     <string name="update_dialog_title">Update available</string>
     <string name="update_dialog_dismiss">Dismiss</string>
-    <string name="update_up_to_date">FoxyVPN is up to date (%1$s)</string>
+    <string name="update_up_to_date">SadSha Foxy VPN is up to date (%1$s)</string>
     <string name="update_check_failed">Unable to check for updates: %1$s</string>
 
     <string name="proxy_tls_review_error">Review the proxy address before saving the configuration without TLS.</string>
     <string name="proxy_credentials_invalid_error">Enter credentials valid for the selected proxy type, or clear both fields.</string>
 
     <string name="login_title">Sign in with Firefox</string>
-    <string name="login_desc">FoxyVPN runs on the free 50 GB of monthly VPN traffic Mozilla includes with a Firefox account. No subscription is required.</string>
+    <string name="login_desc">SadSha Foxy VPN runs on the free 50 GB of monthly VPN traffic Mozilla includes with a Firefox account. No subscription is required.</string>
     <string name="login_btn_sign_in">Sign in with Firefox</string>
     <string name="login_help">Opens the official Mozilla sign-in page in an in-app browser and returns automatically once you are signed in.</string>
-    <string name="browser_login_subtitle">You will return to FoxyVPN automatically after signing in</string>
+    <string name="browser_login_subtitle">You will return to SadSha Foxy VPN automatically after signing in</string>
 
     <string name="theme_desc_system_light">Theme: follows the system. Tap for light mode</string>
     <string name="theme_desc_system_dark">Theme: follows the system. Tap for dark mode</string>

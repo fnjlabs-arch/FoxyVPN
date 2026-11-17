@@ -1,9 +1,9 @@
 <div align="center">
 
-# FoxyVPN - Unofficial Firefox VPN Client
+# SadSha Foxy VPN - Unofficial Firefox VPN Client
 
 <p align="center">
-  <img src="https://i.ibb.co/8D9KdmNk/6a07263d16c0.png" alt="FoxyVPN Logo" width="150"/>
+  <img src="https://i.ibb.co/8D9KdmNk/6a07263d16c0.png" alt="SadSha Foxy VPN Logo" width="150"/>
 </p>
 
 ![Android](https://img.shields.io/badge/Android-212121?style=for-the-badge&logo=android&logoColor=white)
@@ -12,7 +12,7 @@
 ![Sing-Box](https://img.shields.io/badge/Sing--Box-212121?style=for-the-badge&logo=go&logoColor=white)
 ![License](https://img.shields.io/badge/License_MIT-212121?style=for-the-badge)
 
-*FoxyVPN is a modern, privacy-focused Android client for Mozilla's Firefox VPN service. Powered by a customized sing-box core, it connects directly to Mozilla's global Fastly edge network using high-performance MASQUE protocol with HTTP/1.1, HTTP/2, and HTTP/3 support.*
+*SadSha Foxy VPN is a modern, privacy-focused Android client for Mozilla's Firefox VPN service. Powered by a customized sing-box core, it connects directly to Mozilla's global Fastly edge network using high-performance MASQUE protocol with HTTP/1.1, HTTP/2, and HTTP/3 support.*
 
 </div>
 
@@ -63,12 +63,12 @@
 ## 🚀 Getting Started
 
 1. **Get a Firefox account**: If you don't already have one, create an account at [accounts.firefox.com](https://accounts.firefox.com).
-2. **Download & Install**: Grab the latest APK matching your device (`arm64-v8a`, `armeabi-v7a`, or `universal`) from the [Releases](https://github.com/Vauth/FoxyVPN/releases) page.
+2. **Download & Install**: Grab the latest APK matching your device (`arm64-v8a`, `armeabi-v7a`, or `universal`) from the [Releases](https://github.com/Vauth/SadSha Foxy VPN/releases) page.
 3. **Sign In**: Tap "Sign in with Firefox" to authenticate via the in-app browser.
 4. **Connect**: Choose a server location and tap the power button.
 
 > [!NOTE]
-> Access, entitlement, quota, and geographic availability are controlled by Mozilla. FoxyVPN connects directly to official endpoints and respects account quotas.
+> Access, entitlement, quota, and geographic availability are controlled by Mozilla. SadSha Foxy VPN connects directly to official endpoints and respects account quotas.
 
 <br>
 
@@ -82,7 +82,7 @@
 ### Build Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vauth/FoxyVPN.git
+   git clone https://github.com/Vauth/SadSha Foxy VPN.git
    cd FoxyVPN
    ```
 

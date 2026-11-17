@@ -1,6 +1,6 @@
 # Edge Relayer
 
-A lightweight edge proxy designed to provide reliable connectivity and network resilience for FoxyVPN control-plane communications in restricted or high-latency network environments.
+A lightweight edge proxy designed to provide reliable connectivity and network resilience for SadSha Foxy VPN control-plane communications in restricted or high-latency network environments.
 
 > [!NOTE]
 > This proxy handles only standard control-plane API calls (account sign-in, token refresh, and server catalog fetching). It **never** carries VPN tunnel data traffic.
@@ -23,7 +23,7 @@ https://<your-worker-name>.<your-subdomain>.workers.dev
 ```
 
 ### 2. App Configuration
-- Open **FoxyVPN**.
+- Open **SadSha Foxy VPN**.
 - Go to **Settings > Relayer provider**.
 - Select **Custom Relayer** and enter your relayer URL.
 - Finally, click **Save**.

@@ -54,7 +54,7 @@ export default {
 
       if (!rawUrlParam) {
         return new Response(
-          JSON.stringify({ status: "ok", relay: "foxyvpn" }),
+          JSON.stringify({ status: "ok", relay: "sadsha-foxyvpn" }),
           { status: 200, headers: { "Content-Type": "application/json", "Cache-Control": "no-store" } }
         );
       }
